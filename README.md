@@ -1,48 +1,54 @@
 <div align="center">Hey, I'm Nurul Izzah 👋
 
-<img src="images/profile.jpeg" width="160" alt="Nurul Izzah's Profile Picture" style="border-radius: 50%;">First-Year Data Engineering Student 🎓
+🎓 First-Year Data Engineering Student
 
 Universiti Teknologi Malaysia (UTM) 🇲🇾
 
-Learning, exploring, and building my journey in technology.
+Exploring how data, software, and technology can solve real-world problems.
 
-<br><a href="https://github.com/izzahcr">
-  <img src="https://img.shields.io/badge/GitHub-Connect%20with%20me-181717?style=for-the-badge&logo=github" alt="GitHub">
+<br><a href="https://www.linkedin.com/in/nurul-i-33b5aa3ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a><a href="mailto:izzah-07@graduate.utm.my">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a></div>---
 
 👩🏻‍💻 About Me
 
 Hi! I'm Nurul Izzah, a first-year Data Engineering student at Universiti Teknologi Malaysia (UTM).
 
-I'm interested in exploring how data, programming, and technology work together to solve real-world problems.
+I'm interested in learning how programming, databases, and data technologies work together to solve real-world problems.
 
-I'm currently building my technical foundation, learning new tools, and developing my skills one step at a time.
+I'm currently building my technical foundation, exploring new technologies, and improving my skills one step at a time.
 
 🛠️ Languages & Tools
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Git-Learning-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-Learning-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Python-Exploring-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>🌱 Currently Learning
 
 - 💻 Programming and problem-solving with C++
 - 🔧 Version control using Git and GitHub
-- ☁️ Cloud computing and its applications
 - 🗄️ Database fundamentals and data management
+- ☁️ Cloud computing and its applications
+- 📊 Fundamentals of data engineering
 
 🎯 My Goals
 
 - Build my first programming projects.
 - Strengthen my programming and problem-solving skills.
 - Explore data engineering tools and technologies.
-- Develop a portfolio of projects throughout my degree.
+- Learn how to work with databases and data pipelines.
+- Build a portfolio of projects throughout my degree.
 
 📬 Let's Connect
 
-I'm always looking forward to learning new things and growing as a technology student.
+I'm always excited to learn new things, explore technology, and connect with others who share similar interests.
 
-Thank you for visiting my profile! ✨
+- 💼 LinkedIn: "Nurul Izzah" (https://www.linkedin.com/in/nurul-i-33b5aa3ab/)
+- 📧Email : izzah-07@graduate.utm.my
 
 ---
 
