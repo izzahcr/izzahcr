@@ -7,9 +7,6 @@ Universiti Teknologi Malaysia (UTM) 🇲🇾
 
 Exploring how data, software, and technology can solve real-world problems.
 
-<br><a href="https://github.com/izzahcr">
-  <img src="https://img.shields.io/badge/GitHub-Connect%20with%20me-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a></div>---
 <br><a href="https://www.linkedin.com/in/nurul-i-33b5aa3ab/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a><a href="mailto:izzah-07@graduate.utm.my">
@@ -50,9 +47,6 @@ I'm currently building my technical foundation, exploring new technologies, and 
 📬 Let's Connect
 
 I'm always excited to learn new things, explore technology, and connect with others who share similar interests.
-
-- 💼 LinkedIn: "Nurul Izzah" (https://www.linkedin.com/in/nurul-i-33b5aa3ab/)
-- 📧Email : izzah-07@graduate.utm.my
 
 ---
 
