@@ -1,6 +1,6 @@
 <div align="center">Hey, I'm Nurul Izzah 👋
 
-<img src="images/profile.jpg" width="160" alt="Nurul Izzah's Profile Picture" style="border-radius: 50%;">First-Year Data Engineering Student 🎓
+<img src="images/profile.jpeg" width="160" alt="Nurul Izzah's Profile Picture" style="border-radius: 50%;">First-Year Data Engineering Student 🎓
 
 Universiti Teknologi Malaysia (UTM) 🇲🇾
 
