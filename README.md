@@ -6,7 +6,7 @@ Universiti Teknologi Malaysia (UTM) 🇲🇾
 
 Learning, exploring, and building my journey in technology.
 
-<br><a href="https://github.com/YOUR_GITHUB_USERNAME">
+<br><a href="https://github.com/izzahcr">
   <img src="https://img.shields.io/badge/GitHub-Connect%20with%20me-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a></div>---
 
