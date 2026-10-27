@@ -1,9 +1,9 @@
-<div align="center">Hey, I'm Nurul Izzah 👋
+## <div align="center">Hey, I'm Nurul Izzah 👋
 
 
 🎓 First-Year Data Engineering Student
 
-Universiti Teknologi Malaysia (UTM) 🇲🇾
+Universiti Teknologi Malaysia (UTM)
 
 Exploring how data, software, and technology can solve real-world problems.
 
